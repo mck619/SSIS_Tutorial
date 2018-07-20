@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<DTSConfiguration>
+    <DTSConfigurationHeading>
+        <DTSConfigurationFileInfo GeneratedBy="DESKTOP-13VFUVE\mckak" GeneratedFromPackageName="Lesson 5" GeneratedFromPackageID="{B30A3625-CE33-47DA-B374-38D0FF3BB13A}" GeneratedDate="7/19/2018 3:09:39 PM"/>
+    </DTSConfigurationHeading>
+    <Configuration ConfiguredType="Property" Path="\Package.Variables[User::varFolderName].Properties[Value]" ValueType="String">
+        <ConfiguredValue>C:\Program Files\Microsoft SQL Server\100\Samples\Integration Services\Tutorial\Creating a Simple ETL Package - Copy</ConfiguredValue>
+    </Configuration>
+</DTSConfiguration>
